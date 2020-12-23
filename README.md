@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif)
 
-## Hi there, I'm [Tanmay!](https://tanmaylaud.netlify.app)![](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+## Hi there, I'm [Tanmay!](https://tanmaylaud.netlify.app)!
 
 ### [Here's my new COVID19 3D Globe Tracker](https://github.com/tanmaylaud/covid19-globe-tracker)
 ![demo](https://github.com/tanmaylaud/covid19-globe-tracker/blob/master/demo.gif)
