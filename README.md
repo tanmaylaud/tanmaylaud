@@ -2,11 +2,6 @@ https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8
 
 ## Hi there, I'm [Tanmay!]()👋
 
-![Link to my website](http://tanmaylaud.github.io/portfolio)
-
-![Connect with me on LinkedIn](https://www.linkedin.com/in/tanmaylaud/)
-![Connect with me on Medium](https://medium.com/@tanmaylaud)
-
 ### [Here's my new COVID19 3D Globe Tracker](https://github.com/tanmaylaud/covid19-globe-tracker)
 ![demo](https://github.com/tanmaylaud/covid19-globe-tracker/blob/master/demo.gif)
 
@@ -27,3 +22,21 @@ https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tanmaylaud&show_icons=true&hide_border=true)
 
+<h2> Let's Connect 😃 </h2>  
+<div align="center">
+<a href="https://github.com/tanmaylaud" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/l_tanmay" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/tanmaylaud" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/tanmayl" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@tanmaylaud" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>
