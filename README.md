@@ -1,5 +1,7 @@
 ## Hi there, I'm [Tanmay!](http://tanmaylaud.github.io/portfolio)👋
 
+![](https://komarev.com/ghpvc/?username=tanmaylaud)
+
 ### [Here's my new COVID19 3D Globe Tracker](https://github.com/tanmaylaud/covid19-globe-tracker)
 ![demo](https://github.com/tanmaylaud/covid19-globe-tracker/blob/master/demo.gif)
 
