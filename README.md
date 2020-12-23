@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif)
 
-## Hi there, I'm [Tanmay!](tanmaylaud.netlify.app)![](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+## Hi there, I'm [Tanmay!](https://tanmaylaud.netlify.app)![](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
 ### [Here's my new COVID19 3D Globe Tracker](https://github.com/tanmaylaud/covid19-globe-tracker)
 ![demo](https://github.com/tanmaylaud/covid19-globe-tracker/blob/master/demo.gif)
@@ -21,6 +21,8 @@
 <br />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tanmaylaud&show_icons=true&hide_border=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaylaud&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Let's Connect 😃 </h2>  
 <div align="center">
