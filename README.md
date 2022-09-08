@@ -3,9 +3,13 @@
 ## Hi there, I'm [Tanmay!](https://www.linkedin.com/in/tanmaylaud)!
 
 ### [New Ranking Explainers in OmniXAI](https://opensource.salesforce.com/OmniXAI/latest/omnixai.explainers.ranking.html)
-![omnixai]()
-### [Climate Change Actors Network Analysis](https://wriclimate-network.herokuapp.com/)
 <img width="842" alt="omnixai" src="https://user-images.githubusercontent.com/31733620/189207626-4f53f011-3b79-4b6c-93df-3585e87ff299.png">
+
+### [Climate Change Actors Network Analysis](https://wriclimate-network.herokuapp.com/)
+
+
+### [AI For Malaria Prevention](https://medium.com/omdena/ai-for-malaria-prevention-identifying-water-bodies-through-satellite-imagery-6872078aa0c1)
+Built an Ensemble model using features from landcover image segmentation U-Net model representations, population density, DeepWaterMap and topographical features generated from Google Earth Engine data for Ghana, Africa. Detected stagnant water bodies with 0.905 AUC. (in collaboration with Award winning startup Zzapp Malaria. [Read more](https://medium.com/omdena/ai-for-malaria-prevention-identifying-water-bodies-through-satellite-imagery-6872078aa0c1)
 
 ### [COVID19 3D Globe Tracker](https://github.com/tanmaylaud/covid19-globe-tracker)
 ![demo](https://github.com/tanmaylaud/covid19-globe-tracker/blob/master/demo.gif)
