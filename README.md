@@ -1,8 +1,13 @@
 ![](https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif)
 
-## Hi there, I'm [Tanmay!](https://tanmaylaud.netlify.app)!
+## Hi there, I'm [Tanmay!](https://www.linkedin.com/in/tanmaylaud)!
 
-### [Here's my new COVID19 3D Globe Tracker](https://github.com/tanmaylaud/covid19-globe-tracker)
+### [New Ranking Explainers in OmniXAI](https://opensource.salesforce.com/OmniXAI/latest/omnixai.explainers.ranking.html)
+![omnixai]()
+### [Climate Change Actors Network Analysis](https://wriclimate-network.herokuapp.com/)
+<img width="842" alt="omnixai" src="https://user-images.githubusercontent.com/31733620/189207626-4f53f011-3b79-4b6c-93df-3585e87ff299.png">
+
+### [COVID19 3D Globe Tracker](https://github.com/tanmaylaud/covid19-globe-tracker)
 ![demo](https://github.com/tanmaylaud/covid19-globe-tracker/blob/master/demo.gif)
 
 
