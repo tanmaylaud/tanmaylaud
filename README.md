@@ -5,6 +5,10 @@
 ### [New Ranking Explainers in OmniXAI](https://opensource.salesforce.com/OmniXAI/latest/omnixai.explainers.ranking.html)
 <img width="842" alt="omnixai" src="https://user-images.githubusercontent.com/31733620/189207626-4f53f011-3b79-4b6c-93df-3585e87ff299.png">
 
+### [NLP For Climate Change](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)
+Led a team of 50 international collaborators that developed Heatmaps (hazards v/s solutions), Q&A system and Knowledge Graphs to assess coalition platforms on climate adaptation, and match key climate risks to adaptation measures
+- Q&A – Implemented novel search engine on Dense Passage Retrieval (DPR) finetuned embeddings of documents and indexed using Elastic Search deployed on AWS EC2. DPR outperformed existing BM25 based indexing (0.87 v/s 0.74 MRR on retrieved docs). [Read more](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)
+
 ### [Climate Change Actors Network Analysis](https://wriclimate-network.herokuapp.com/)
 
 
