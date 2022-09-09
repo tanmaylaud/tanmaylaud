@@ -10,7 +10,8 @@ Led a team of 50 international collaborators that developed Heatmaps (hazards v/
 - Q&A – Implemented novel search engine on Dense Passage Retrieval (DPR) finetuned embeddings of documents and indexed using Elastic Search deployed on AWS EC2. DPR outperformed existing BM25 based indexing (0.87 v/s 0.74 MRR on retrieved docs). [Read more](https://medium.com/omdena/using-an-nlp-q-a-system-to-study-climate-hazards-and-nature-based-solutions-c191920766d7)
 
 ### [Climate Change Actors Network Analysis](https://wriclimate-network.herokuapp.com/)
-![wrinetwork_AdobeExpress](https://user-images.githubusercontent.com/31733620/189246422-8a88e82e-90ca-46ef-b535-d071ac52706a.gif)
+![wrinetwork_AdobeExpress (1)](https://user-images.githubusercontent.com/31733620/189249539-15717a68-f92b-418d-964e-df01c41dffca.gif)
+
 
 
 ### [AI For Malaria Prevention](https://medium.com/omdena/ai-for-malaria-prevention-identifying-water-bodies-through-satellite-imagery-6872078aa0c1)
