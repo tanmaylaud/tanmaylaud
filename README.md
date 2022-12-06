@@ -2,6 +2,12 @@
 
 ## Hi there, I'm [Tanmay!](https://www.linkedin.com/in/tanmaylaud)!
 
+### ClimaBench work accepted at NLP4PositiveImpact workshop at EMNLP 2022
+The topic of Climate Change (CC) has received limited attention in NLP despite its real-world urgency. Activists and policy-makers
+need NLP tools in order to effectively process the vast and rapidly growing textual data produced on CC. Their utility, however, primarily depends on whether the current state-of-the-art models can generalize across various tasks in the CC domain. In order to address this gap, we introduce Climate Change Benchmark (#ClimaBench), a collection of datasets for evaluating model performance across a diverse set of CC NLU tasks systematically.
+
+![](https://drive.google.com/file/d/1oAsvAjTQTgLHmdjIt2zl0K50kElvBlGv/view?usp=sharing)
+
 ### [New Ranking Explainers in OmniXAI](https://opensource.salesforce.com/OmniXAI/latest/omnixai.explainers.ranking.html)
 <img width="842" alt="omnixai" src="https://user-images.githubusercontent.com/31733620/189207626-4f53f011-3b79-4b6c-93df-3585e87ff299.png">
 
