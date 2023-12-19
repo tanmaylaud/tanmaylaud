@@ -2,7 +2,16 @@
 
 ## Hi there, I'm [Tanmay!](https://www.linkedin.com/in/tanmaylaud)!
 
-### December 2022: ClimaBench work accepted at NLP4PositiveImpact workshop at EMNLP 2022
+### December 2023: <img src="server/recwizard.png" alt="recwizard logo" width="25"/> [RecWizard](https://github.com/McAuley-Lab/RecWizard) accepted AAAI 2024 Demo Track
+ <a href='https://huggingface.co/recwizard'><img src="https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace%20Community-blue"/></a>
+The RecWizard libary is built for easy deployment/development of Conversational Recommender Systems(CRS). The core idea of RecWizard is to use a "Text-in, Text-out" interface for all kinds of different modules used in a CRS pipeline. The text-based interface gives our package a plug-and-play nature that allows users to easily experiment with new combinations of modules.
+Built with awesome folks at McAuley Lab UCSD.
+
+<img src="https://github.com/McAuley-Lab/RecWizard/blob/main/pipeline.png" alt="pipeline" width="400"/> 
+
+### May 2023: Joined [Megagon Labs](https://megagon.ai/) as a Research Engineer
+
+### December 2022: [ClimaBench](https://huggingface.co/datasets/iceberg-nlp/climabench) work accepted at NLP4PositiveImpact workshop at EMNLP 2022
 The topic of Climate Change (CC) has received limited attention in NLP despite its real-world urgency. Activists and policy-makers
 need NLP tools in order to effectively process the vast and rapidly growing textual data produced on CC. Their utility, however, primarily depends on whether the current state-of-the-art models can generalize across various tasks in the CC domain. In order to address this gap, we introduce Climate Change Benchmark (#ClimaBench), a collection of datasets for evaluating model performance across a diverse set of CC NLU tasks systematically.
 
