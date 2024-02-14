@@ -4,6 +4,7 @@
 
 ### January 2024: Won 2 Hackathons! 
 [suRAGeon](https://github.com/tanmaylaud/suRAGeon) - AI Assisted Medical Surgery (Note: code was built in a day for a hackathon, so its a pretty hacky solution)
+
 [X-Ray Insight](https://github.com/tanmaylaud/xray-insight) - Evaluating Multimodal RAG Pipeline for question answering on XRay Images
 
 ### December 2023: <img src="https://github.com/McAuley-Lab/RecWizard/blob/main/server/recwizard.png" alt="recwizard logo" width="25"/> [RecWizard](https://github.com/McAuley-Lab/RecWizard) accepted AAAI 2024 Demo Track
