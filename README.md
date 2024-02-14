@@ -2,6 +2,10 @@
 
 ## Hi there, I'm [Tanmay!](https://www.linkedin.com/in/tanmaylaud)!
 
+### January 2024: Won 2 Hackathons! 
+[suRAGeon](https://github.com/tanmaylaud/suRAGeon) - AI Assisted Medical Surgery (Note: code was built in a day for a hackathon, so its a pretty hacky solution)
+[X-Ray Insight](https://github.com/tanmaylaud/xray-insight) - Evaluating Multimodal RAG Pipeline for question answering on XRay Images
+
 ### December 2023: <img src="https://github.com/McAuley-Lab/RecWizard/blob/main/server/recwizard.png" alt="recwizard logo" width="25"/> [RecWizard](https://github.com/McAuley-Lab/RecWizard) accepted AAAI 2024 Demo Track
  <a href='https://huggingface.co/recwizard'><img src="https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace%20Community-blue"/></a>
 The RecWizard libary is built for easy deployment/development of Conversational Recommender Systems(CRS). The core idea of RecWizard is to use a "Text-in, Text-out" interface for all kinds of different modules used in a CRS pipeline. The text-based interface gives our package a plug-and-play nature that allows users to easily experiment with new combinations of modules.
