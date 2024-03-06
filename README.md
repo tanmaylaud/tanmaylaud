@@ -19,8 +19,7 @@ But here's the real kicker - Subtext goes beyond the cool factor! 🌈 Our creat
  <a href='https://huggingface.co/recwizard'><img src="https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace%20Community-blue"/></a>
 The RecWizard libary is built for easy deployment/development of Conversational Recommender Systems(CRS). The core idea of RecWizard is to use a "Text-in, Text-out" interface for all kinds of different modules used in a CRS pipeline. The text-based interface gives our package a plug-and-play nature that allows users to easily experiment with new combinations of modules.
 Built with awesome folks at McAuley Lab UCSD.
-
-<img src="https://github.com/McAuley-Lab/RecWizard/blob/main/pipeline.png" alt="pipeline" width="400"/> 
+![recwizard2](https://github.com/tanmaylaud/tanmaylaud/assets/31733620/3a1f59cc-f88b-42bb-abd6-0452a6904d59)
 
 ### May 2023: Joined [Megagon Labs](https://megagon.ai/) as a Research Engineer
 
