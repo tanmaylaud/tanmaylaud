@@ -1,6 +1,14 @@
 ![](https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif)
 
 ## Hi there, I'm [Tanmay!](https://www.linkedin.com/in/tanmaylaud)!
+### March 2024: Built Subtext that won in the Chat Interface category at AGI House Hackathon
+
+Introducing Subtext! 🚀📱 Our chat interface redefines texting with AI-generated text animations and emojis on the fly! 🤖🎉
+How do we do it? 🤔 We prompted Gemini to format incoming text with HTML, CSS, and JavaScript animations, then rendering it in a browser on the fly! 🌐💡
+
+But here's the real kicker - Subtext goes beyond the cool factor! 🌈 Our creation focuses on accessibility, catering to individuals with ASD or similar challenges, ensuring everyone can grasp the meaning and emotion behind texts, even humor and sarcasm (remember Sheldon from Big Bang Theory?) ! 🧩❤️
+
+[LinkedIn Post](https://www.linkedin.com/posts/tanmaylaud_gemini-agi-agihousehackathon-activity-7170642254548643840-qDm1?utm_source=share&utm_medium=member_desktop)
 
 ### January 2024: Won 2 Hackathons! 
 [suRAGeon](https://github.com/tanmaylaud/suRAGeon) - AI Assisted Medical Surgery (Note: code was built in a day for a hackathon, so its a pretty hacky solution)
