@@ -2,6 +2,10 @@
 
 ## Hi there, I'm [Tanmay!](https://www.linkedin.com/in/tanmaylaud)!
 
+### Sep 2024: Our multi-turn conversation attack paper is now arxiv
+
+[RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking](https://arxiv.org/abs/2409.17458)
+
 ### May 2024: Joined HippocraticAI as an Applied Scientist working on Speech LLMs 🚀🚀🚀
 
 ### March 2024: Built Subtext that won in the Chat Interface category at AGI House Hackathon
