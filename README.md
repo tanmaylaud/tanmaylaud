@@ -1,6 +1,9 @@
 ![](https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif)
 
 ## Hi there, I'm [Tanmay!](https://www.linkedin.com/in/tanmaylaud)!
+
+### May 2024: Joined HippocraticAI as an Applied Scientist working on Speech LLMs 🚀🚀🚀
+
 ### March 2024: Built Subtext that won in the Chat Interface category at AGI House Hackathon
 
 Introducing Subtext! 🚀📱 Our chat interface redefines texting with AI-generated text animations and emojis on the fly! 🤖🎉
